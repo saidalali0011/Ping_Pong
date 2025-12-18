@@ -1,0 +1,8 @@
+# Requirements for Ping Pong Game Project
+# Install using: pip install -r requirements.txt
+
+# Main game library
+pygame>=2.5.0
+
+# Testing framework (for test_game.py)
+pytest>=7.0.0
